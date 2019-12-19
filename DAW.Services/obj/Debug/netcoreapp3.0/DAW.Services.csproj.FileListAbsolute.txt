@@ -1,0 +1,13 @@
+/Users/tomarares/Developer/DAW-master/DAW.Services/bin/Debug/netcoreapp3.0/DAW.Services.deps.json
+/Users/tomarares/Developer/DAW-master/DAW.Services/bin/Debug/netcoreapp3.0/DAW.Services.dll
+/Users/tomarares/Developer/DAW-master/DAW.Services/bin/Debug/netcoreapp3.0/DAW.Services.pdb
+/Users/tomarares/Developer/DAW-master/DAW.Services/bin/Debug/netcoreapp3.0/DAW.Domain.dll
+/Users/tomarares/Developer/DAW-master/DAW.Services/bin/Debug/netcoreapp3.0/DAW.Domain.EF.dll
+/Users/tomarares/Developer/DAW-master/DAW.Services/bin/Debug/netcoreapp3.0/DAW.Domain.EF.pdb
+/Users/tomarares/Developer/DAW-master/DAW.Services/bin/Debug/netcoreapp3.0/DAW.Domain.pdb
+/Users/tomarares/Developer/DAW-master/DAW.Services/obj/Debug/netcoreapp3.0/DAW.Services.csprojAssemblyReference.cache
+/Users/tomarares/Developer/DAW-master/DAW.Services/obj/Debug/netcoreapp3.0/DAW.Services.AssemblyInfoInputs.cache
+/Users/tomarares/Developer/DAW-master/DAW.Services/obj/Debug/netcoreapp3.0/DAW.Services.AssemblyInfo.cs
+/Users/tomarares/Developer/DAW-master/DAW.Services/obj/Debug/netcoreapp3.0/DAW.Services.csproj.CopyComplete
+/Users/tomarares/Developer/DAW-master/DAW.Services/obj/Debug/netcoreapp3.0/DAW.Services.dll
+/Users/tomarares/Developer/DAW-master/DAW.Services/obj/Debug/netcoreapp3.0/DAW.Services.pdb

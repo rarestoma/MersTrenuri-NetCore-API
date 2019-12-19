@@ -1,0 +1,185 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/tomarares/Developer/DAW-master/DAW.Services/DAW.Services.csproj": {}
+  },
+  "projects": {
+    "/Users/tomarares/Developer/DAW-master/DAW.Domain.EF/DAW.Domain.EF.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/tomarares/Developer/DAW-master/DAW.Domain.EF/DAW.Domain.EF.csproj",
+        "projectName": "DAW.Domain.EF",
+        "projectPath": "/Users/tomarares/Developer/DAW-master/DAW.Domain.EF/DAW.Domain.EF.csproj",
+        "packagesPath": "/Users/tomarares/.nuget/packages/",
+        "outputPath": "/Users/tomarares/Developer/DAW-master/DAW.Domain.EF/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/tomarares/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "/Users/tomarares/Developer/DAW-master/DAW.Domain/DAW.Domain.csproj": {
+                "projectPath": "/Users/tomarares/Developer/DAW-master/DAW.Domain/DAW.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/tomarares/Developer/DAW-master/DAW.Domain/DAW.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/tomarares/Developer/DAW-master/DAW.Domain/DAW.Domain.csproj",
+        "projectName": "DAW.Domain",
+        "projectPath": "/Users/tomarares/Developer/DAW-master/DAW.Domain/DAW.Domain.csproj",
+        "packagesPath": "/Users/tomarares/.nuget/packages/",
+        "outputPath": "/Users/tomarares/Developer/DAW-master/DAW.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/tomarares/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/tomarares/Developer/DAW-master/DAW.Services/DAW.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/tomarares/Developer/DAW-master/DAW.Services/DAW.Services.csproj",
+        "projectName": "DAW.Services",
+        "projectPath": "/Users/tomarares/Developer/DAW-master/DAW.Services/DAW.Services.csproj",
+        "packagesPath": "/Users/tomarares/.nuget/packages/",
+        "outputPath": "/Users/tomarares/Developer/DAW-master/DAW.Services/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/tomarares/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "/Users/tomarares/Developer/DAW-master/DAW.Domain.EF/DAW.Domain.EF.csproj": {
+                "projectPath": "/Users/tomarares/Developer/DAW-master/DAW.Domain.EF/DAW.Domain.EF.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

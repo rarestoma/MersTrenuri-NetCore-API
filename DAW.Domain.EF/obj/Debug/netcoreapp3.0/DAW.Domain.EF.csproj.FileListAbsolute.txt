@@ -1,0 +1,11 @@
+/Users/tomarares/Developer/DAW-master/DAW.Domain.EF/bin/Debug/netcoreapp3.0/DAW.Domain.EF.deps.json
+/Users/tomarares/Developer/DAW-master/DAW.Domain.EF/bin/Debug/netcoreapp3.0/DAW.Domain.EF.dll
+/Users/tomarares/Developer/DAW-master/DAW.Domain.EF/bin/Debug/netcoreapp3.0/DAW.Domain.EF.pdb
+/Users/tomarares/Developer/DAW-master/DAW.Domain.EF/bin/Debug/netcoreapp3.0/DAW.Domain.dll
+/Users/tomarares/Developer/DAW-master/DAW.Domain.EF/bin/Debug/netcoreapp3.0/DAW.Domain.pdb
+/Users/tomarares/Developer/DAW-master/DAW.Domain.EF/obj/Debug/netcoreapp3.0/DAW.Domain.EF.csprojAssemblyReference.cache
+/Users/tomarares/Developer/DAW-master/DAW.Domain.EF/obj/Debug/netcoreapp3.0/DAW.Domain.EF.AssemblyInfoInputs.cache
+/Users/tomarares/Developer/DAW-master/DAW.Domain.EF/obj/Debug/netcoreapp3.0/DAW.Domain.EF.AssemblyInfo.cs
+/Users/tomarares/Developer/DAW-master/DAW.Domain.EF/obj/Debug/netcoreapp3.0/DAW.Domain.EF.csproj.CopyComplete
+/Users/tomarares/Developer/DAW-master/DAW.Domain.EF/obj/Debug/netcoreapp3.0/DAW.Domain.EF.dll
+/Users/tomarares/Developer/DAW-master/DAW.Domain.EF/obj/Debug/netcoreapp3.0/DAW.Domain.EF.pdb
