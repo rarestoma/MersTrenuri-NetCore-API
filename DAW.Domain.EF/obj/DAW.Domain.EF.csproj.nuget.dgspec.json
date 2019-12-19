@@ -1,35 +1,37 @@
 {
   "format": 1,
   "restore": {
-    "/Users/tomarares/Developer/DAW-master/DAW.Domain.EF/DAW.Domain.EF.csproj": {}
+    "C:\\Users\\User\\Documents\\GitHub\\MersTrenuri-NetCore-API\\DAW.Domain.EF\\DAW.Domain.EF.csproj": {}
   },
   "projects": {
-    "/Users/tomarares/Developer/DAW-master/DAW.Domain.EF/DAW.Domain.EF.csproj": {
+    "C:\\Users\\User\\Documents\\GitHub\\MersTrenuri-NetCore-API\\DAW.Domain.EF\\DAW.Domain.EF.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/tomarares/Developer/DAW-master/DAW.Domain.EF/DAW.Domain.EF.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Documents\\GitHub\\MersTrenuri-NetCore-API\\DAW.Domain.EF\\DAW.Domain.EF.csproj",
         "projectName": "DAW.Domain.EF",
-        "projectPath": "/Users/tomarares/Developer/DAW-master/DAW.Domain.EF/DAW.Domain.EF.csproj",
-        "packagesPath": "/Users/tomarares/.nuget/packages/",
-        "outputPath": "/Users/tomarares/Developer/DAW-master/DAW.Domain.EF/obj/",
+        "projectPath": "C:\\Users\\User\\Documents\\GitHub\\MersTrenuri-NetCore-API\\DAW.Domain.EF\\DAW.Domain.EF.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\Documents\\GitHub\\MersTrenuri-NetCore-API\\DAW.Domain.EF\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "/Users/tomarares/.config/NuGet/NuGet.Config"
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.0": {
             "projectReferences": {
-              "/Users/tomarares/Developer/DAW-master/DAW.Domain/DAW.Domain.csproj": {
-                "projectPath": "/Users/tomarares/Developer/DAW-master/DAW.Domain/DAW.Domain.csproj"
+              "C:\\Users\\User\\Documents\\GitHub\\MersTrenuri-NetCore-API\\DAW.Domain\\DAW.Domain.csproj": {
+                "projectPath": "C:\\Users\\User\\Documents\\GitHub\\MersTrenuri-NetCore-API\\DAW.Domain\\DAW.Domain.csproj"
               }
             }
           }
@@ -62,34 +64,50 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.0.1, 3.0.1]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.0.0, 3.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[3.0.0, 3.0.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.0.100/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/tomarares/Developer/DAW-master/DAW.Domain/DAW.Domain.csproj": {
+    "C:\\Users\\User\\Documents\\GitHub\\MersTrenuri-NetCore-API\\DAW.Domain\\DAW.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/tomarares/Developer/DAW-master/DAW.Domain/DAW.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Documents\\GitHub\\MersTrenuri-NetCore-API\\DAW.Domain\\DAW.Domain.csproj",
         "projectName": "DAW.Domain",
-        "projectPath": "/Users/tomarares/Developer/DAW-master/DAW.Domain/DAW.Domain.csproj",
-        "packagesPath": "/Users/tomarares/.nuget/packages/",
-        "outputPath": "/Users/tomarares/Developer/DAW-master/DAW.Domain/obj/",
+        "projectPath": "C:\\Users\\User\\Documents\\GitHub\\MersTrenuri-NetCore-API\\DAW.Domain\\DAW.Domain.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\Documents\\GitHub\\MersTrenuri-NetCore-API\\DAW.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "/Users/tomarares/.config/NuGet/NuGet.Config"
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -115,12 +133,26 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.0.1, 3.0.1]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.0.0, 3.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[3.0.0, 3.0.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.0.100/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
