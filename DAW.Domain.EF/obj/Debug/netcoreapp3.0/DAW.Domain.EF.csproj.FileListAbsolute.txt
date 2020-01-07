@@ -9,3 +9,14 @@
 /Users/tomarares/Developer/DAW-master/DAW.Domain.EF/obj/Debug/netcoreapp3.0/DAW.Domain.EF.csproj.CopyComplete
 /Users/tomarares/Developer/DAW-master/DAW.Domain.EF/obj/Debug/netcoreapp3.0/DAW.Domain.EF.dll
 /Users/tomarares/Developer/DAW-master/DAW.Domain.EF/obj/Debug/netcoreapp3.0/DAW.Domain.EF.pdb
+C:\Users\User\Documents\GitHub\MersTrenuri-NetCore-API\DAW.Domain.EF\bin\Debug\netcoreapp3.0\DAW.Domain.EF.deps.json
+C:\Users\User\Documents\GitHub\MersTrenuri-NetCore-API\DAW.Domain.EF\bin\Debug\netcoreapp3.0\DAW.Domain.EF.dll
+C:\Users\User\Documents\GitHub\MersTrenuri-NetCore-API\DAW.Domain.EF\bin\Debug\netcoreapp3.0\DAW.Domain.EF.pdb
+C:\Users\User\Documents\GitHub\MersTrenuri-NetCore-API\DAW.Domain.EF\bin\Debug\netcoreapp3.0\DAW.Domain.dll
+C:\Users\User\Documents\GitHub\MersTrenuri-NetCore-API\DAW.Domain.EF\bin\Debug\netcoreapp3.0\DAW.Domain.pdb
+C:\Users\User\Documents\GitHub\MersTrenuri-NetCore-API\DAW.Domain.EF\obj\Debug\netcoreapp3.0\DAW.Domain.EF.csprojAssemblyReference.cache
+C:\Users\User\Documents\GitHub\MersTrenuri-NetCore-API\DAW.Domain.EF\obj\Debug\netcoreapp3.0\DAW.Domain.EF.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\MersTrenuri-NetCore-API\DAW.Domain.EF\obj\Debug\netcoreapp3.0\DAW.Domain.EF.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\MersTrenuri-NetCore-API\DAW.Domain.EF\obj\Debug\netcoreapp3.0\DAW.Domain.EF.csproj.CopyComplete
+C:\Users\User\Documents\GitHub\MersTrenuri-NetCore-API\DAW.Domain.EF\obj\Debug\netcoreapp3.0\DAW.Domain.EF.dll
+C:\Users\User\Documents\GitHub\MersTrenuri-NetCore-API\DAW.Domain.EF\obj\Debug\netcoreapp3.0\DAW.Domain.EF.pdb

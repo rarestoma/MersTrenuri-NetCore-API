@@ -31,5 +31,25 @@ namespace DAW.Domain.ExtensionMethods
                 Id = id
             };
         }
+
+
+
+
+        public static Train ToDTO(this GeneralTrainRequest request)
+        {
+            return new Train
+            {
+                Rang = request.Rang
+            };
+        }
+
+        public static Train ToDTO(this GeneralTrainRequest request, int id)
+        {
+            return new Train
+            {
+                Rang = request.Rang,
+                Id = id
+            };
+        }
     }
 }

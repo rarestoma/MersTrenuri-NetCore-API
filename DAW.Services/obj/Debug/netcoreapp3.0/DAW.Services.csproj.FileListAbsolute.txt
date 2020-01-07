@@ -11,3 +11,16 @@
 /Users/tomarares/Developer/DAW-master/DAW.Services/obj/Debug/netcoreapp3.0/DAW.Services.csproj.CopyComplete
 /Users/tomarares/Developer/DAW-master/DAW.Services/obj/Debug/netcoreapp3.0/DAW.Services.dll
 /Users/tomarares/Developer/DAW-master/DAW.Services/obj/Debug/netcoreapp3.0/DAW.Services.pdb
+C:\Users\User\Documents\GitHub\MersTrenuri-NetCore-API\DAW.Services\bin\Debug\netcoreapp3.0\DAW.Services.deps.json
+C:\Users\User\Documents\GitHub\MersTrenuri-NetCore-API\DAW.Services\bin\Debug\netcoreapp3.0\DAW.Services.dll
+C:\Users\User\Documents\GitHub\MersTrenuri-NetCore-API\DAW.Services\bin\Debug\netcoreapp3.0\DAW.Services.pdb
+C:\Users\User\Documents\GitHub\MersTrenuri-NetCore-API\DAW.Services\bin\Debug\netcoreapp3.0\DAW.Domain.dll
+C:\Users\User\Documents\GitHub\MersTrenuri-NetCore-API\DAW.Services\bin\Debug\netcoreapp3.0\DAW.Domain.EF.dll
+C:\Users\User\Documents\GitHub\MersTrenuri-NetCore-API\DAW.Services\bin\Debug\netcoreapp3.0\DAW.Domain.EF.pdb
+C:\Users\User\Documents\GitHub\MersTrenuri-NetCore-API\DAW.Services\bin\Debug\netcoreapp3.0\DAW.Domain.pdb
+C:\Users\User\Documents\GitHub\MersTrenuri-NetCore-API\DAW.Services\obj\Debug\netcoreapp3.0\DAW.Services.csprojAssemblyReference.cache
+C:\Users\User\Documents\GitHub\MersTrenuri-NetCore-API\DAW.Services\obj\Debug\netcoreapp3.0\DAW.Services.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\MersTrenuri-NetCore-API\DAW.Services\obj\Debug\netcoreapp3.0\DAW.Services.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\MersTrenuri-NetCore-API\DAW.Services\obj\Debug\netcoreapp3.0\DAW.Services.csproj.CopyComplete
+C:\Users\User\Documents\GitHub\MersTrenuri-NetCore-API\DAW.Services\obj\Debug\netcoreapp3.0\DAW.Services.dll
+C:\Users\User\Documents\GitHub\MersTrenuri-NetCore-API\DAW.Services\obj\Debug\netcoreapp3.0\DAW.Services.pdb
