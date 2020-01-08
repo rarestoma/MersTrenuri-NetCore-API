@@ -51,5 +51,23 @@ namespace DAW.Domain.ExtensionMethods
                 Id = id
             };
         }
+
+
+        public static Station ToDTO(this GeneralStationRequest request)
+        {
+            return new Station
+            {
+                Name = request.Name
+            };
+        }
+
+        public static Station ToDTO(this GeneralStationRequest request, int id)
+        {
+            return new Station
+            {
+                Name = request.Name,
+                Id = id
+            };
+        }
     }
 }

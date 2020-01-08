@@ -24,6 +24,7 @@ namespace DAW.WebApi
             services.AddScoped<IEmployeeRepository, EmployeeRepository>();
             services.AddScoped<ICustomerRepository, CustomerRepository>();
             services.AddScoped<ITrainRepository, TrainRepository>();
+            services.AddScoped<IStationRepository, StationRepository>();
         }
 
         public static void InjectServices(this IServiceCollection services)
@@ -33,6 +34,7 @@ namespace DAW.WebApi
             services.AddScoped<IEmployeeServices, EmployeeServices>();
             services.AddScoped<ICustomerServices, CustomerServices>();
             services.AddScoped<ITrainServices, TrainServices>();
+            services.AddScoped<IStationServices, StationServices>();
         }
     }
 }
