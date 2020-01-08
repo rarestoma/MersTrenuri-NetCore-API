@@ -18,4 +18,14 @@
     <ProjectReference Include="..\DAW.Services\DAW.Services.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Content Remove="Properties\launchSettings.json" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Update="Properties\launchSettings.json">
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+  </ItemGroup>
 </Project>
