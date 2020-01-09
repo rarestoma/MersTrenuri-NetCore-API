@@ -14,25 +14,25 @@ namespace DAW.WebApi.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class StationssController : ControllerBase
+    public class StationsController : ControllerBase
     {
         private readonly IStationServices _stationServices;
 
-        public StationssController(IStationServices stationServices)
+        public StationsController(IStationServices stationServices)
         {
             _stationServices = stationServices;
         }
 
         [HttpGet("GetAllStations")]
-        public async Task<ObjectResult> GetAllStationssAsync()
+        public async Task<ObjectResult> GetAllStationsAsync()
         {
             List<Station> result = await _stationServices.StationRepository.GetAllAsync();
 
             return Ok(result);
         }
 
-        [HttpGet("GetStations/{id}")]
-        public async Task<ObjectResult> GetStationsAsync([FromRoute] int id)
+        [HttpGet("GetStation/{id}")]
+        public async Task<ObjectResult> GetStationAsync([FromRoute] int id)
         {
             Station result = await _stationServices.StationRepository.GetByIdAsync(id);
 
@@ -40,8 +40,8 @@ namespace DAW.WebApi.Controllers
         }
 
 
-        [HttpPost("CreateStations")]
-        public async Task<ObjectResult> CreateStationsAsync([FromBody] GeneralStationRequest request)
+        [HttpPost("CreateStation")]
+        public async Task<ObjectResult> CreateStationAsync([FromBody] GeneralStationRequest request)
         {
             Station result = await _stationServices.StationRepository.CreateAsync(request.ToDTO());
             await _stationServices.CommitChanges();
@@ -49,8 +49,8 @@ namespace DAW.WebApi.Controllers
             return Ok(result);
         }
 
-        [HttpPut("UpdateStations/{id}")]
-        public async Task<ObjectResult> UpdateStationsAsync([FromBody] GeneralStationRequest request, [FromRoute] int id)
+        [HttpPut("UpdateStation/{id}")]
+        public async Task<ObjectResult> UpdateStationAsync([FromBody] GeneralStationRequest request, [FromRoute] int id)
         {
             Station result = _stationServices.StationRepository.Update(request.ToDTO(id));
             await _stationServices.CommitChanges();
@@ -58,8 +58,8 @@ namespace DAW.WebApi.Controllers
             return Ok(result);
         }
 
-        [HttpDelete("DeleteStations/{id}")]
-        public async Task<ObjectResult> DeleteStationsAsync([FromRoute] int id)
+        [HttpDelete("DeleteStation/{id}")]
+        public async Task<ObjectResult> DeleteStationAsync([FromRoute] int id)
         {
             Station station = await _stationServices.StationRepository.GetByIdAsync(id);
             _stationServices.StationRepository.Delete(station);

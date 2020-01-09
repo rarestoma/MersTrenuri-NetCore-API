@@ -4,14 +4,16 @@ using DAW.Domain.EF;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 namespace DAW.WebApi.Migrations
 {
     [DbContext(typeof(HotelDbContext))]
-    partial class HotelDbContextModelSnapshot : ModelSnapshot
+    [Migration("20200109132904_a11")]
+    partial class a11
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -187,7 +189,7 @@ namespace DAW.WebApi.Migrations
 
             modelBuilder.Entity("DAW.Domain.Models.TrainStation", b =>
                 {
-                    b.Property<int>("Id")
+                    b.Property<int>("ID")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("int")
                         .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
@@ -207,9 +209,7 @@ namespace DAW.WebApi.Migrations
                     b.Property<int>("TrainID")
                         .HasColumnType("int");
 
-                    b.HasKey("Id");
-
-                    b.HasIndex("Id");
+                    b.HasKey("ID");
 
                     b.HasIndex("StationID");
 

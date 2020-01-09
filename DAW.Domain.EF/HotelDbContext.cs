@@ -17,6 +17,8 @@ namespace DAW.Domain.EF
             modelBuilder.ApplyConfiguration(new EmployeeEntityConfiguration());
             modelBuilder.ApplyConfiguration(new TrainEntityConfiguration());
             modelBuilder.ApplyConfiguration(new StationEntityConfiguration());
+            modelBuilder.ApplyConfiguration(new TrainStationEntityConfiguration());
+
         }
 
         public DbSet<Room> Rooms { get; set; }

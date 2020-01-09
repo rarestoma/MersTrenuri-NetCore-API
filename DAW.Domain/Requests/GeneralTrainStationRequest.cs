@@ -1,13 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
-using DAW.Domain.Models.BaseModels;
 
-namespace DAW.Domain.Models
+namespace DAW.Domain.Requests
 {
-    public class TrainStation : BaseEntity
+    public class GeneralTrainStationRequest
     {
-        //public int ID { get; set; }
         public int TrainID { get; set; } //FK
         public int StationID { get; set; } //FK
 
@@ -16,9 +14,5 @@ namespace DAW.Domain.Models
         public DateTime ArrivalTime { get; set; }
 
         public DateTime LeftTime { get; set; }
-
-        public virtual Station Station { get; set; }
-
-        public virtual Train Train { get; set; }
     }
 }

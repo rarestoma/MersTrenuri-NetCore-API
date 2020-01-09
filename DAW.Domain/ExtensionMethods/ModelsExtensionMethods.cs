@@ -69,5 +69,33 @@ namespace DAW.Domain.ExtensionMethods
                 Id = id
             };
         }
+
+
+        public static TrainStation ToDTO(this GeneralTrainStationRequest request)
+        {
+            return new TrainStation
+            {
+                TrainID = request.TrainID,
+                StationID = request.StationID,
+                StationNumber = request.StationNumber,
+                ArrivalTime = request.ArrivalTime,
+                LeftTime = request.LeftTime
+
+
+            };
+        }
+
+        public static TrainStation ToDTO(this GeneralTrainStationRequest request, int id)
+        {
+            return new TrainStation
+            {
+                TrainID = request.TrainID,
+                StationID = request.StationID,
+                StationNumber = request.StationNumber,
+                ArrivalTime = request.ArrivalTime,
+                LeftTime = request.LeftTime,
+                Id = id
+            };
+        }
     }
 }
