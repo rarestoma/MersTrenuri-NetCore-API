@@ -378,3 +378,8 @@ C:/Users/User/Documents/GitHub/MersTrenuri-NetCore-API/DAW/obj/Debug/netcoreapp3
 /Users/tomarares/Developer/MersTrenuri-NetCore-API/DAW/obj/Debug/netcoreapp3.0/DAW.WebApi.csproj.CopyComplete
 /Users/tomarares/Developer/MersTrenuri-NetCore-API/DAW/obj/Debug/netcoreapp3.0/DAW.WebApi.dll
 /Users/tomarares/Developer/MersTrenuri-NetCore-API/DAW/obj/Debug/netcoreapp3.0/DAW.WebApi.pdb
+/Users/tomarares/Developer/MersTrenuri-NetCore-API/DAW/bin/Debug/netcoreapp3.0/System.Web.Cors.dll
+/Users/tomarares/Developer/MersTrenuri-NetCore-API/DAW/bin/Debug/netcoreapp3.0/System.Net.Http.Formatting.dll
+/Users/tomarares/Developer/MersTrenuri-NetCore-API/DAW/bin/Debug/netcoreapp3.0/System.Web.Http.dll
+/Users/tomarares/Developer/MersTrenuri-NetCore-API/DAW/bin/Debug/netcoreapp3.0/System.Web.Http.Cors.dll
+/Users/tomarares/Developer/MersTrenuri-NetCore-API/DAW/bin/Debug/netcoreapp3.0/Newtonsoft.Json.Bson.dll
