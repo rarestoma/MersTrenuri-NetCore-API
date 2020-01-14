@@ -6,14 +6,6 @@
 /Users/tomarares/Developer/DAW-master/DAW.Domain/obj/Debug/netcoreapp3.0/DAW.Domain.dll
 /Users/tomarares/Developer/DAW-master/DAW.Domain/obj/Debug/netcoreapp3.0/DAW.Domain.pdb
 /Users/tomarares/Developer/DAW-master/DAW.Domain/obj/Debug/netcoreapp3.0/DAW.Domain.csprojAssemblyReference.cache
-C:/Users/User/Documents/GitHub/MersTrenuri-NetCore-API/DAW.Domain/bin/Debug/netcoreapp3.0/DAW.Domain.deps.json
-C:/Users/User/Documents/GitHub/MersTrenuri-NetCore-API/DAW.Domain/bin/Debug/netcoreapp3.0/DAW.Domain.dll
-C:/Users/User/Documents/GitHub/MersTrenuri-NetCore-API/DAW.Domain/bin/Debug/netcoreapp3.0/DAW.Domain.pdb
-C:/Users/User/Documents/GitHub/MersTrenuri-NetCore-API/DAW.Domain/obj/Debug/netcoreapp3.0/DAW.Domain.csprojAssemblyReference.cache
-C:/Users/User/Documents/GitHub/MersTrenuri-NetCore-API/DAW.Domain/obj/Debug/netcoreapp3.0/DAW.Domain.AssemblyInfoInputs.cache
-C:/Users/User/Documents/GitHub/MersTrenuri-NetCore-API/DAW.Domain/obj/Debug/netcoreapp3.0/DAW.Domain.AssemblyInfo.cs
-C:/Users/User/Documents/GitHub/MersTrenuri-NetCore-API/DAW.Domain/obj/Debug/netcoreapp3.0/DAW.Domain.dll
-C:/Users/User/Documents/GitHub/MersTrenuri-NetCore-API/DAW.Domain/obj/Debug/netcoreapp3.0/DAW.Domain.pdb
 /Users/tomarares/Developer/MersTrenuri-NetCore-API/DAW.Domain/bin/Debug/netcoreapp3.0/DAW.Domain.deps.json
 /Users/tomarares/Developer/MersTrenuri-NetCore-API/DAW.Domain/bin/Debug/netcoreapp3.0/DAW.Domain.dll
 /Users/tomarares/Developer/MersTrenuri-NetCore-API/DAW.Domain/bin/Debug/netcoreapp3.0/DAW.Domain.pdb
@@ -22,3 +14,11 @@ C:/Users/User/Documents/GitHub/MersTrenuri-NetCore-API/DAW.Domain/obj/Debug/netc
 /Users/tomarares/Developer/MersTrenuri-NetCore-API/DAW.Domain/obj/Debug/netcoreapp3.0/DAW.Domain.AssemblyInfo.cs
 /Users/tomarares/Developer/MersTrenuri-NetCore-API/DAW.Domain/obj/Debug/netcoreapp3.0/DAW.Domain.dll
 /Users/tomarares/Developer/MersTrenuri-NetCore-API/DAW.Domain/obj/Debug/netcoreapp3.0/DAW.Domain.pdb
+C:\Users\User\Documents\GitHub\MersTrenuri-NetCore-API\DAW.Domain\bin\Debug\netcoreapp3.0\DAW.Domain.deps.json
+C:\Users\User\Documents\GitHub\MersTrenuri-NetCore-API\DAW.Domain\bin\Debug\netcoreapp3.0\DAW.Domain.dll
+C:\Users\User\Documents\GitHub\MersTrenuri-NetCore-API\DAW.Domain\bin\Debug\netcoreapp3.0\DAW.Domain.pdb
+C:\Users\User\Documents\GitHub\MersTrenuri-NetCore-API\DAW.Domain\obj\Debug\netcoreapp3.0\DAW.Domain.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\MersTrenuri-NetCore-API\DAW.Domain\obj\Debug\netcoreapp3.0\DAW.Domain.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\MersTrenuri-NetCore-API\DAW.Domain\obj\Debug\netcoreapp3.0\DAW.Domain.dll
+C:\Users\User\Documents\GitHub\MersTrenuri-NetCore-API\DAW.Domain\obj\Debug\netcoreapp3.0\DAW.Domain.pdb
+C:\Users\User\Documents\GitHub\MersTrenuri-NetCore-API\DAW.Domain\obj\Debug\netcoreapp3.0\DAW.Domain.csprojAssemblyReference.cache
