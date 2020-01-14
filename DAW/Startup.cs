@@ -13,11 +13,24 @@ namespace DAW.WebApi
             Configuration = configuration;
         }
 
+        readonly string MyAllowSpecificOrigins = "_myAllowSpecificOrigins";
+
+
         public IConfiguration Configuration { get; }
 
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            services.AddCors(options =>
+            {
+                options.AddPolicy(MyAllowSpecificOrigins,
+                builder =>
+                {
+                    builder.WithOrigins("https://localhost:4000")
+                                        .AllowAnyHeader()
+                                        .AllowAnyMethod();
+                });
+            });
             services.AddControllers();
             services.ConfigureDbContext(Configuration);
             services.InjectRepositories();
@@ -32,6 +45,8 @@ namespace DAW.WebApi
                 app.UseDeveloperExceptionPage();
             }
 
+            app.UseCors(MyAllowSpecificOrigins);
+
             app.UseHttpsRedirection();
 
             app.UseRouting();
@@ -40,8 +55,9 @@ namespace DAW.WebApi
 
             app.UseEndpoints(endpoints =>
             {
-                endpoints.MapControllers();
+                endpoints.MapControllers().RequireCors(MyAllowSpecificOrigins);
             });
+
         }
     }
 }
